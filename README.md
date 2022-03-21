@@ -3,7 +3,7 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 
 - ✨ I am passionate about building things that generate positive impacts. (Yea, I know it sounds cliché, but it is exactly the reason why I want to pursue a career in software engineering.)
 
-- 🔭 I am currently working on a side project that I am very proud of. Hopefully, it will be released in June. 
+- 🔭 I am currently working on a very cool project. Hopefully, it will be released in June. 
  
 - 💻 I had prior experiences in Android and fullstack website development. Feel free to contact me through [Linkedin](https://www.linkedin.com/in/catherine-ruoxi-w-7b46ab183/) and [email](mailto:ruoxi.wu@uwaterloo.ca)! I am open to project collaborations and fullstack development internship opporunities.
 
