@@ -8,4 +8,4 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 - 💻 I had prior experiences in fullstack website and Android development. Feel free to contact me through [Linkedin](https://www.linkedin.com/in/catherine-ruoxi-w-7b46ab183/) and [email](mailto:ruoxi.wu@uwaterloo.ca)! I am open to project collaborations and fullstack development internship opporunities.
 
 **Languages**: Java, C/C++, JavaScript/TypeScript, Python, SQL<br/>
-**Frameworks and Tools**: Bash, Git, React.js, Vue.js, Express.js, Koa.js, Socket.IO, MongoDB
+**Frameworks and Tools**: Bash, Git, React.js, Vue.js, Express.js, Socket.IO, MongoDB
