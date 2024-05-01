@@ -6,11 +6,11 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 - 👩🏻‍💻 **OS Enthusiast:** Contributed code to Windows OS and MIUI during my internships at Microsoft and Xiaomi.
 
 ### 💡 Other Interests
-- 🕶️ **HCI:** Exploring new design spaces of AR/VR software and the interection of HCI and AI.
+- 🕶️ **Human-Computer Interaction:** Exploring new design spaces of AR/VR software and the interection of HCI and AI.
 - 🔍 **Distributed Systems:** Analyzing and improving the architecture of complex large-scale software systems.
 
 ### 🌟 Open to New Opportunities
-- 👀 **Seeking:** Full-time Software Engineering roles for 2025.
+- 👀 **Actively Seeking:** Full-time Software Engineering roles for 2025.
 - 📄 **Resume:** [Download Here](https://github.com/catherineruoxiwu/catherineruoxiwu/blob/main/Catherine_Wu_Resume_v7.pdf)
 
 ### 🤝 Let's Connect!
