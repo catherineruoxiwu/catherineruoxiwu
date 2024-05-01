@@ -1,17 +1,16 @@
 ## Welcome, welcome ~
 I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place/%E4%B8%AD%E5%9B%BD%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%8D%97%E4%BA%AC%E5%B8%82/@17.5126382,77.2950694,3z/data=!4m5!3m4!1s0x35b58c9b668dcd83:0x8ffbb60b79df1b06!8m2!3d32.0583799!4d118.79647).
 
-### 🛠️ Dev Experience
-- 👩🏻‍💻 **Skills:** Full-stack website, mobile, and desktop application development.
-- 🌐 **Specialty:** Implementing human-centric user interfaces and experiences.
+### 🛠️ Dev Experience Highlights
+- 🌐 **Full-Stack Developer:** Developed web, mobile, and desktop apps using diverse technologies.
+- 👩🏻‍💻 **OS Enthusiast:** Contributed codes to Windows OS and Xiaomi’s MIUI as intern.
 
-### 💡 Interests in CS
-- 👾 **Fields:** Human-computer interaction (HCI) and distributed systems.
-- 🕶️ **Exploration:** AR/VR devices and the intersection of HCI and AI.
-- 🔍 **Curiosity:** Infrastructure of software systems.
+### 💡 Other Interests
+- 🕶️ **HCI:** Exploring new design spaces of AR/VR software and the interection of HCI and AI.
+- 🔍 **Distributed Systems:** Analyzing and improving the architecture of complex large-scale software systems.
 
-### 🌟 Open to NG SWE Opportunities
-- 👀 **Seeking:** Full-time SWE opportunities for 2025.
+### 🌟 Open to New Opportunities
+- 👀 **Seeking:** Full-time Software Engineering roles for 2025.
 - 📄 **Resume:** [Download Here](https://github.com/catherineruoxiwu/catherineruoxiwu/blob/main/Catherine_Wu_Resume_v7.pdf)
 
 ### 🤝 Let's Connect!
