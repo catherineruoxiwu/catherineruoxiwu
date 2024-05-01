@@ -3,7 +3,7 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 
 ### 🛠️ Dev Experience Highlights
 - 🌐 **Full-Stack Developer:** Developed web, mobile, and desktop apps using diverse technologies.
-- 👩🏻‍💻 **OS Enthusiast:** Contributed code to Windows OS and Xiaomi’s MIUI as an intern.
+- 👩🏻‍💻 **OS Enthusiast:** Contributed code to Windows OS and MIUI during my internships at Microsoft and Xiaomi.
 
 ### 💡 Other Interests
 - 🕶️ **HCI:** Exploring new design spaces of AR/VR software and the interection of HCI and AI.
