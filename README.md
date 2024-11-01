@@ -16,4 +16,3 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruoxi-catherine-wu/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ruoxi.wu@uwaterloo.ca)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/catherineruoxiwu/catherineruoxiwu/blob/main/wechat_qr_code.png)
