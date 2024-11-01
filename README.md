@@ -10,7 +10,7 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 - 🔍 **Distributed Systems:** Analyzing and improving the architecture of complex large-scale software systems.
 
 ### 🚀 Career Update
-- 💼 **Full-Time @ Microsoft**: I’m thrilled to announce that I’ll be joining Microsoft’s Windows+Devices org as a Software Engineer!
+- 💼 **Full-Time @ Microsoft**: I’m thrilled to announce that I’ll be joining Microsoft’s Windows+Devices org as a Software Engineer after graduation!
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruoxi-catherine-wu/)
