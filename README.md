@@ -9,9 +9,8 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 - 🕶️ **Human-Computer Interaction:** Exploring new design spaces of AR/VR software and the interection of HCI and AI.
 - 🔍 **Distributed Systems:** Analyzing and improving the architecture of complex large-scale software systems.
 
-### 🌟 Open to New Opportunities
-- 👀 **Actively Seeking:** Full-time Software Engineering roles for 2025.
-- 📄 **Resume:** [Download Here](https://github.com/catherineruoxiwu/catherineruoxiwu/blob/main/Catherine_Wu_Resume_v7.pdf)
+### 🚀 Career Update
+- 💼 **Full-Time @ Microsoft**: I’m thrilled to announce that I’ll be joining Microsoft’s Windows+Devices org as a Software Engineer!
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruoxi-catherine-wu/)
