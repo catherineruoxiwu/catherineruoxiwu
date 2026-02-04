@@ -10,4 +10,4 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 - 🔍 **Distributed Systems:** Analyzing and improving the architecture of complex large-scale software systems.
 
 ### 🌱 Side Projects & Collaboration
-- 🎶 Always excited to collaborate on side projects! My interests includes music, travel tools, 3D modeling, and data-driven sports analysis.
+- 🎶 Always excited to collaborate on side projects!
