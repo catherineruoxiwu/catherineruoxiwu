@@ -11,3 +11,6 @@ I am Catherine 吴若菥 from [Nanjing, China](https://www.google.com/maps/place
 
 ### 🌱 Side Projects & Collaboration
 - 🎶 Always excited to collaborate on side projects!
+
+### 📣 Announcement
+- 🎓 Excited to share that I’m currently actively applying for online Master’s programs.
